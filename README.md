@@ -1,7 +1,7 @@
 github automation
 =================
 
-C# and Java WebDriver test automation project for GitHub
+Java WebDriver test automation project for GitHub
 
 Java
 ====
